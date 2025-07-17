@@ -52,6 +52,6 @@ A **personal, independent, and scalable** Discord bot project inspired by one of
 This project actually has quite an interesting story. A month after I had deployed the bot, something terrible happened... My younger sister had formatted the USB and I pretty much lost the entire project. As I was a bit younger then, I stupidly didn't store my project online somewhere like `here` or even Google Drive. So I couldn't even be that mad. Luckily, I had a few screenshots saved of the bot in action.
 
 
-# Screenshots
+# Screenshots and Demo Video
 
-![Image](./Screenshots/image.png)
+![Screenshots and Videos](./Screenshots)
