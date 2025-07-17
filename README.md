@@ -47,3 +47,6 @@ A **personal, independent, and scalable** Discord bot project inspired by one of
 ## 💡 What I Learned
 
 > This project pushed me to learn and apply the **most technologies, frameworks, and concepts** in a single build. From bot logic and async design to full-stack integration and deployment — it was a full-spectrum learning experience.
+
+# Where is the code?
+
