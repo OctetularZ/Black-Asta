@@ -54,4 +54,4 @@ This project actually has quite an interesting story. A month after I had deploy
 
 # Screenshots and Demo Video
 
-[📂 Screenshots and Videos](./Screenshots)
+[📂 Screenshots and Videos](./Screenshots) - Redirects to screenshots directory
