@@ -1,4 +1,4 @@
-# 🧝‍♂️ Black Asta - Black Clover Discord Bot
+# 🧝‍♂️🍀 Black Asta - Black Clover Discord Bot
 
 **Technologies:** `Python`, `Discord.py`, `SQL`, `HTML`, `CSS`, `JavaScript`, `VPS`, `FTP`  
 **Topics:** `Asynchronous Programming`, `Bot Development`, `Web Integration`
